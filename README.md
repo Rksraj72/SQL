@@ -1,3 +1,3 @@
-Assignment SQL
+SQL
 Major Assignment
-This assignment based on Weather Analysis
+Based on Weather Analysis
